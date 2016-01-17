@@ -1,9 +1,4 @@
 <items>
-<#item>
-<#title>...</title>
-<#url>plugin://plugin.video.youtube/play/?video_id=</url>
-<#logo>http://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg</logo>
-<#/item>
 <item>
 <title>The New Monkey 1</title>
 <url>plugin://plugin.video.youtube/play/?video_id=56XjM2PLyGU</url>
