@@ -1,2 +1,7 @@
-# Lists
-Lists of things for add
+<items>
+<item>
+<title></title>
+<url></url>
+<logo></logo>
+</item>
+</items>
