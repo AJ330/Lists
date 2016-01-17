@@ -2,37 +2,37 @@
 <#item>
 <#title>...</title>
 <#url>plugin://plugin.video.youtube/play/?video_id=</url>
-<#logo>http://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg </logo>
+<#logo>http://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg</logo>
 <#/item>
 <item>
 <title>The New Monkey 1</title>
 <url>plugin://plugin.video.youtube/play/?video_id=56XjM2PLyGU</url>
-<logo>http://img.youtube.com/vi/56XjM2PLyGU/0.jpg </logo>
+<logo>http://img.youtube.com/vi/56XjM2PLyGU/0.jpg</logo>
 </item>
 <item>
 <title>The New Monkey 2</title>
 <url>plugin://plugin.video.youtube/play/?video_id=L2B9qAAQUYQ</url>
-<logo>http://img.youtube.com/vi/L2B9qAAQUYQ/0.jpg </logo>
+<logo>http://img.youtube.com/vi/L2B9qAAQUYQ/0.jpg</logo>
 </item>
 <item>
 <title>The New Monkey 3</title>
 <url>plugin://plugin.video.youtube/play/?video_id=NdM7S-EwWl8</url>
-<logo>http://img.youtube.com/vi/NdM7S-EwWl8/0.jpg </logo>
+<logo>http://img.youtube.com/vi/NdM7S-EwWl8/0.jpg</logo>
 </item>
 <item>
 <title>The New Monkey 4</title>
 <url>plugin://plugin.video.youtube/play/?video_id=Gtm0EG8huwI</url>
-<logo>http://img.youtube.com/vi/Gtm0EG8huwI/0.jpg </logo>
+<logo>http://img.youtube.com/vi/Gtm0EG8huwI/0.jpg</logo>
 </item>
 <item>
 <title>The New Monkey 5</title>
 <url>plugin://plugin.video.youtube/play/?video_id=DFQze3evy8o</url>
-<logo>http://img.youtube.com/vi/DFQze3evy8o/0.jpg </logo>
+<logo>http://img.youtube.com/vi/DFQze3evy8o/0.jpg</logo>
 </item>
 <item>
 <title>The New Monkey 6</title>
 <url>plugin://plugin.video.youtube/play/?video_id=NQ32TZgIp_0</url>
-<logo>http://img.youtube.com/vi/NQ32TZgIp_0/0.jpg </logo>
+<logo>http://img.youtube.com/vi/NQ32TZgIp_0/0.jpg</logo>
 </item>
 <item>
 <title>The New Monkey 7</title>
